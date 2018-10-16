@@ -79,6 +79,7 @@ body{
     box-shadow: 2.5px 2.5px 5px rgba(0, 0, 0, 0.4);
     text-shadow: 2.5px 2.5px 10px rgba(0, 0, 0, 0.4);
     font-family: 'Josefin Sans', sans-serif;
+    cursor:pointer;
 }
 footer{
     margin-top:1rem; 
